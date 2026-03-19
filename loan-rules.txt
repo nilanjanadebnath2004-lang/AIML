@@ -1,0 +1,12 @@
+Loan Policy Rules
+
+1. Minimum salary required for loan approval is ₹25,000 per month.
+2. Minimum credit score must be 700.
+3. Maximum Debt to Income (DTI) ratio allowed is 55%.
+4. Interest rate ranges from 9% to 13% depending on credit score.
+5. Maximum loan amount allowed is 20 times the monthly salary.
+6. Maximum loan tenure allowed is 7 years.
+7. Applicants with credit score above 750 receive lower interest rates.
+8. Existing EMI obligations should not exceed 40% of monthly salary.
+9. Salaried applicants must show at least 6 months of salary history.
+10. Loan eligibility decreases if EMI + new EMI exceeds 60% of salary.
